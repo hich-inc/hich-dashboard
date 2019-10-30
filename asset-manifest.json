@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hich-dashboard/static/css/main.ce1e66d1.chunk.css",
+    "main.js": "/hich-dashboard/static/js/main.506a7d84.chunk.js",
+    "main.js.map": "/hich-dashboard/static/js/main.506a7d84.chunk.js.map",
+    "runtime~main.js": "/hich-dashboard/static/js/runtime~main.593d3e77.js",
+    "runtime~main.js.map": "/hich-dashboard/static/js/runtime~main.593d3e77.js.map",
+    "static/css/2.0929a2c0.chunk.css": "/hich-dashboard/static/css/2.0929a2c0.chunk.css",
+    "static/js/2.4c8ab8f5.chunk.js": "/hich-dashboard/static/js/2.4c8ab8f5.chunk.js",
+    "static/js/2.4c8ab8f5.chunk.js.map": "/hich-dashboard/static/js/2.4c8ab8f5.chunk.js.map",
+    "index.html": "/hich-dashboard/index.html",
+    "precache-manifest.c27f0f9850e5107907f88cbabff426dd.js": "/hich-dashboard/precache-manifest.c27f0f9850e5107907f88cbabff426dd.js",
+    "service-worker.js": "/hich-dashboard/service-worker.js",
+    "static/css/2.0929a2c0.chunk.css.map": "/hich-dashboard/static/css/2.0929a2c0.chunk.css.map",
+    "static/css/main.ce1e66d1.chunk.css.map": "/hich-dashboard/static/css/main.ce1e66d1.chunk.css.map",
+    "static/media/styles.scss": "/hich-dashboard/static/media/bg_signup.8f2e2a3b.jpg"
+  }
+}
